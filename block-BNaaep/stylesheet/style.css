@@ -1,0 +1,14 @@
+h1,
+p {
+  text-align: center;
+}
+
+.name-block {
+  display: flex;
+  justify-content: center;
+}
+
+.name {
+  text-align: center;
+  flex: 0 1 30%;
+}
